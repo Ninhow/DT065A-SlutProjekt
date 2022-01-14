@@ -1,0 +1,13 @@
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/interfaces/CodeInterface.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/utils/CoapParser.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/models/OptionCode.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/ClientCallback.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/interfaces/CoapParserInterface.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/models/Message.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/interfaces/UDPClientInterface.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/models/TypeCode.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/UDPClient.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/models/ContentCode.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/App.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/models/ResponseCode.java
+/home/ninhow/DT065A-SlutProjekt/my-app/src/main/java/com/mycompany/app/models/MethodCode.java
